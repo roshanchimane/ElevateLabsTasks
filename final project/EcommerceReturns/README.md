@@ -1,4 +1,4 @@
-# E-Commerce Returns Analysis Dashboard 📦📊
+# E-Commerce Returns Analysis Dashboard 📊
 
 This repository presents an interactive Power BI Dashboard designed to analyze **e-commerce order and return data**. The dashboard focuses on visualizing key return trends, customer behavior, payment methods, and sales metrics to support informed decision-making.
 
